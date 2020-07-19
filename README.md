@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Avionic System enginner. 
 - 🌱 I’m currently learning C++.
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 📝[Resume](https://drive.google.com/file/d/1OeoNm_GzUVN7HAvylJR-ASKAJgQkIWWd/view?usp=sharing)
 
 
 **Languages and Tools:**  
