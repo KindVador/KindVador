@@ -1,7 +1,7 @@
 ### Hi, welcome to my page.
 
-- 🔭 I’m currently working as Avionic System engineer. 
-- 🌱 I’m currently learning C++ and Qt.
+- 🔭 I’m currently working as C++/Qt Software Engineer. 
+- 🌱 I’m still learning C++ and Qt.
 - 📝[Resume](https://drive.google.com/file/d/1OeoNm_GzUVN7HAvylJR-ASKAJgQkIWWd/view?usp=sharing)
 
 
